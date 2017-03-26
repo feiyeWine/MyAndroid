@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;testDialog/res/drawable-mdpi/ddz_MZ.png&apos; to &apos;ddz.png&apos;" description="Rename resource &apos;ddz_MZ.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/drawable-mdpi/ddz_MZ.png" name="ddz.png" stamp="1426390259982" updateReferences="true"/>
+</session>

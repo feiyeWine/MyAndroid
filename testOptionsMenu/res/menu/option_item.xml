@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="100"
+        android:title="菜单一"
+        android:showAsAction="never"
+        />
+	<item
+	    android:id="@+id/item2"
+	    android:title="菜单二"
+	    android:showAsAction="never"
+	    android:orderInCategory="101"
+	    />
+</menu>

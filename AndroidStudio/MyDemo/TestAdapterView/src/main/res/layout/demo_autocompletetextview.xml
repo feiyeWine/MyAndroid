@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <AutoCompleteTextView
+        android:id="@+id/view_autoComplete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请选择"
+        android:completionHint="请选择你喜欢的图书"
+        android:completionThreshold="1"
+        />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/view_mauto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请选择"
+        android:completionThreshold="1"
+        />
+</LinearLayout>

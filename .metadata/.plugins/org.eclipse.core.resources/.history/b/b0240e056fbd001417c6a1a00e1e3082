@@ -1,0 +1,43 @@
+package com.example.testgallery;
+
+import android.content.Context;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.Gallery;
+import android.widget.ImageView;
+
+public class ImageAdapter extends BaseAdapter{
+	private int[] res;
+	private Context context;
+	public ImageAdapter(int[] res,Context context){
+		res = this.res;
+		context = this.context;
+	}
+	@Override
+	public int getCount() {
+		// TODO Auto-generated method stub
+		return res.length;
+	}
+
+	@Override
+	public Object getItem(int position) {
+		// TODO Auto-generated method stub
+		return res[position];
+	}
+
+	@Override
+	public long getItemId(int position) {
+		// TODO Auto-generated method stub
+		return position;
+	}
+
+	@Override
+	public View getView(int position, View arg1, ViewGroup arg2) {
+		ImageView image = new ImageView(context);
+		image.setBackgroundResource(res[position]);
+		image.setLayoutParams(new Gallery.LayoutParams(300, 400);
+		return null;
+	}
+
+}

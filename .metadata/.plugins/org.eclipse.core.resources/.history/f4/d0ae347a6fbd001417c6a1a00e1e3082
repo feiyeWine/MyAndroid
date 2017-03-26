@@ -1,0 +1,21 @@
+package com.example.testgallery;
+
+import android.support.v7.app.ActionBarActivity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.Gallery;
+
+public class MainActivity extends ActionBarActivity {
+	//准备数据源
+	private int[] res = {R.drawable.a,R.drawable.b,R.drawable.c,R.drawable.d};
+	private Gallery gallery;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		gallery = (Gallery) findViewById(R.id.gallery);
+		ImageAdapter adapter = new ImageAdapter(res, this);
+		gallery.setAdapter(adapter);
+	}
+}

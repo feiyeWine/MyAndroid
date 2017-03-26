@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testContent02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_button">跳转</string>
+    <string name="first_textView">我是TextView</string>
+	<string name="second_button">跳转2</string>
+	<string name="second_button2">返回2</string>
+	<string name="page1">第一个页面</string>
+	<string name="page2">第二个页面</string>
+	<string name="page3">第三个页面</string>
+	<string name="page4">第四个页面</string>
+	<string name="number1">80%</string>
+	<string name="third_button">返回</string>
+	<string name="img1">这是一张美图</string>
+</resources>

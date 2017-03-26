@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;下载&apos; into R.string.download" description="Extracts string &apos;下载&apos; into R.string.download" file="/TestProgressBar2/res/layout/main_test.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/TestProgressBar2" rplc-all-java="false" rplc-all-xml="false" sel-end="626" sel-start="626" stamp="1428988781991" tok-esc="下载" xml-attr-name="android:text"/>
+</session>

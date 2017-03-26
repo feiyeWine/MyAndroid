@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDemo.iml" filepath="$PROJECT_DIR$/MyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testBitmap/testBitmap.iml" filepath="$PROJECT_DIR$/testBitmap/testBitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testBroadcastReceiver/testBroadcastReceiver.iml" filepath="$PROJECT_DIR$/testBroadcastReceiver/testBroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testFragment/testFragment.iml" filepath="$PROJECT_DIR$/testFragment/testFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testTntent/testTntent.iml" filepath="$PROJECT_DIR$/testTntent/testTntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmedia/testmedia.iml" filepath="$PROJECT_DIR$/testmedia/testmedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsocket/testsocket.iml" filepath="$PROJECT_DIR$/testsocket/testsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsqlite/testsqlite.iml" filepath="$PROJECT_DIR$/testsqlite/testsqlite.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':testFragment', ':testBitmap', ':testTntent', ':testsqlite', ':testservice', ':testBroadcastReceiver', ':testmedia', ':testsocket'
